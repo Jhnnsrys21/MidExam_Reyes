@@ -1,0 +1,29 @@
+# GLOBAL VARIABLES
+remote_user: jhnnsrys
+
+# Elastic Search Repo
+elastic_repo: elasticsearch.repo
+
+# influxdb repo
+influxdb_repo: influxdb.repo
+
+# grafana repo
+grafana_repo: grafana.repo
+
+# Logstash conf
+logstash_conf: logstash.conf
+
+# Prometheus
+prometheus_src: prometheus.service
+
+# Nagios User and Pass
+nagios_user: nagiosadmin
+nagios_pass: jhnnsrys
+
+# LAMP Variables
+domain: jhnnsrys
+owner: jhnnsrys
+group: jhnnsrys
+index_html: index.html
+ubuntu_src: jhnnsrysubuntu.conf
+centos_src: jhnnsryscentos.conf
